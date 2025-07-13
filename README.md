@@ -27,6 +27,7 @@ pip install unstructured tiktoken chardet
 5. Project Structure
 
 github-chatbot/
+
 ├── backend/
 │   ├── ingest/
 │   │   └── github_scraper.py          # GitHub repo downloader
