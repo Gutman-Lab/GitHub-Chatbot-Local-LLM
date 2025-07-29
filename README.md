@@ -1,4 +1,4 @@
-# 🤖 GitHub Chatbot with Local LLM
+# GitHub Chatbot with Local LLM
 
 An interactive chatbot for querying GitHub code repositories using local LLMs. 
 
@@ -45,8 +45,7 @@ cd GitHub-Chatbot-Local-LLM
 2. Create and activate a virtual environment
 
 python3 -m venv .venv
-source .venv/bin/activate      # Linux/Mac
-# .venv\Scripts\activate       # Windows
+source .venv/bin/activate   # Linux/Mac
 
 3. Install dependencies
 
