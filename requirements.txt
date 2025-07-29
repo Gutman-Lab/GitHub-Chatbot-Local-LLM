@@ -1,9 +1,0 @@
-# requirements.txt
-langchain
-langchain-community
-langchainhub
-sentence-transformers
-faiss-cpu
-streamlit
-gitpython
-
